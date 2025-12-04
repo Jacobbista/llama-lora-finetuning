@@ -1,0 +1,10 @@
+unsloth
+transformers
+datasets
+trl==0.24.0
+wandb
+# huggingface_hub==0.36.0 already included as dependency in unsloth
+torch
+openai
+tqdm
+pandas

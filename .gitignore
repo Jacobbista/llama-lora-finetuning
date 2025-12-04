@@ -1,0 +1,14 @@
+# Environment variables (secrets)
+.env
+
+# ignore all files in the outputs directory
+outputs/
+
+# ignore all files in the wandb directory
+wandb/
+
+models/adapters_*
+models/gguf_*
+
+unsloth_compiled_cache/
+unsloth_*
