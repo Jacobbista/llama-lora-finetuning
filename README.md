@@ -178,7 +178,7 @@ The best performing model (`3B QLoRA`) is deployed via a Gradio frontend.
 - 🔗 **Model Repo (1B QLoRA):** [HuggingFace Link](https://huggingface.co/jacobbista/llama3-1b-finetome/tree/1B_QLoRA_N1000)
 - 🔗 **Model Repo (1B LoRA):** [HuggingFace Link](https://huggingface.co/jacobbista/llama3-1b-finetome/tree/1B_LoRA_N1000)
 - 🔗 **Model Repo (3B QLoRA):** [HuggingFace Link](https://huggingface.co/jacobbista/llama3-3b-finetome/tree/3B_QLoRA_N1000)
-- 🔗 **Demo:** [Gradio Space Link](https://huggingface.co/spaces/jacobbista/llama3-3b-finetome-qlora)
+- 🔗 **Demo:** [Gradio Space Link](https://huggingface.co/spaces/sunnypawat/iris)
 
 ---
 
